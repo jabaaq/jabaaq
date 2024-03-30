@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">A passionate frontend developer from Georgia</p>
-
 ###
 
 <h2 align="left">🔧 Technologies & Tools</h2>
